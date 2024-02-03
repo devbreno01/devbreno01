@@ -1,6 +1,5 @@
 # 💫 About Me:
-- Faço curso técnico em Desenvolvimento de Sistemas(Senai)<br>-Atualmente as linguagens que estudo ou já tive experiencia são:<br>                   Javascript, Java, C 
-
+- Curso técnico em Desenvolvimento de Sistemas(Senai)<br>- Linguagens que estudo ou já tive experiencia são:<br>                  PHP, Javascript, Java
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/breno-guimar%C3%A3es-1b3906272/) 
