@@ -1,8 +1,6 @@
 # 💫 About Me:
 - Software developer that is always  looking for self improvement and building new skills
-## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/breno-guimar%C3%A3es01/) 
-
+  
 # 💻 Tech Stack:
  - PHP <br>
  - LARAVEL <br>
