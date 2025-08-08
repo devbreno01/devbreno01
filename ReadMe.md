@@ -59,5 +59,5 @@
 <h3 align="left">📊 Meus stats</h3>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=devbreno01&show_icons=true&theme=dark" height="180"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
