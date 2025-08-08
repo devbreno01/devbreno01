@@ -59,5 +59,5 @@
 <h3 align="left">📊 Meus stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=devbreno01&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+ <img src="https://github-readme-stats.vercel.app/api?username=devbreno01&show_icons=true&theme=dark" height="180"/>
 </div>
