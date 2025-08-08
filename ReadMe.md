@@ -59,5 +59,5 @@
 <h3 align="left">📊 Meus stats</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=devbreno01&theme=tokyonight" alt="stats" />
 </div>
