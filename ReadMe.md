@@ -25,7 +25,7 @@
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
 <p align="left">
-  Sou um desenvolvedor FullStack, com foco em resolução de problemas utilizando <strong>Laravel | FilamentPHP| React | Java | ScriptCase</strong>.<br>
+  Sou um desenvolvedor FullStack, com foco em resolução de problemas utilizando <strong>PHP | Laravel | Node | React</strong>.<br>
   - 🔭 Atualmente trabalho em projetos web usando Laravel e ScriptCase<br>
   - 📚 Estudando boas práticas, arquitetura limpa para me desenvolver um melhor profissional fullstack<br>
   - ⚡ No tempo livre, gosto de explorar novas stacks e automatizar tarefas
