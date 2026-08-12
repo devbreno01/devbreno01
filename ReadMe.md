@@ -25,10 +25,7 @@
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
 <p align="left">
-  Sou um desenvolvedor FullStack, com foco em resolução de problemas utilizando <strong>PHP | Laravel | Node | React</strong>.<br>
-  - 🔭 Atualmente trabalho em projetos web usando Laravel e ScriptCase<br>
-  - 📚 Estudando boas práticas, arquitetura limpa para me desenvolver um melhor profissional fullstack<br>
-  - ⚡ No tempo livre, gosto de explorar novas stacks e automatizar tarefas
+  Sou um desenvolvedor full stack que busca frequentemente trazer inovações em digitais. Sagacidade e proatividade em resoluções me levam ao meu objetivo central que é agregar valor ao usuário final
 </p>
 
 ###
@@ -44,13 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
 ###
