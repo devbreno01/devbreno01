@@ -25,7 +25,7 @@
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
 <p align="left">
-  Sou um desenvolvedor full stack que busca frequentemente trazer inovações em digitais. Sagacidade e proatividade em resoluções me levam ao meu objetivo central que é agregar valor ao usuário final
+  Sou um desenvolvedor full stack que busca frequentemente trazer inovações em digitais. Sagacidade e proatividade em resoluções problemas me levam ao meu objetivo central, que é agregar valor ao usuário final
 </p>
 
 ###
